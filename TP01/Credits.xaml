@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP01.Credits"
+             Title="NewPage1">
+    <VerticalStackLayout>
+        <Label 
+            Text="BENILDES MEZEZES - CB 3004392"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Label 
+            Text="FABRICIO CARLOS GUIMARAES - CB 3014886"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        
+        
+    </VerticalStackLayout>
+</ContentPage>
